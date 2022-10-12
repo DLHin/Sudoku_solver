@@ -3,7 +3,7 @@
 ## main(~316ms).dart
 Sudoku solver solving part.
 
-The run time is ~316ms.
+The run time is around 316ms.
 
 Succinct algorithm explaination:
 1. Write down the solution that must correct.
