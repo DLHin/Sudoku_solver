@@ -1,6 +1,6 @@
 # Sudoku_solver
 
-## main(~316ms).dart
+## main.dart
 Sudoku solver solving part.
 
 The run time is around 316ms.
